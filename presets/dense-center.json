@@ -1,0 +1,19 @@
+{
+  "name": "Dense Center",
+  "description": "High shrinkage creates tight center with spread outer rings",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 20,
+    "ringCount": 20,
+    "spacingMode": "shrinkage",
+    "outerGap": 24,
+    "shrinkage": 0.12,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 8,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["mesh", "dense", "high-shrinkage"]
+}

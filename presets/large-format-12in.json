@@ -1,0 +1,19 @@
+{
+  "name": "Large Format 12\"",
+  "description": "12-inch diameter for large metal fabrication (SendCutSend compatible)",
+  "config": {
+    "outerRadius": 432,
+    "innerRadius": 36,
+    "ringCount": 18,
+    "spacingMode": "shrinkage",
+    "outerGap": 22,
+    "shrinkage": 0.05,
+    "cutCount": 12,
+    "gridDivisions": 24,
+    "staggerOffset": 1,
+    "cutWidth": 8,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["large", "12-inch", "production"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Diamond Grid",
+  "description": "Concentric squares rotated 45 degrees for diamond orientation",
+  "patternType": "squares",
+  "config": {
+    "outerSize": 360,
+    "innerSize": 36,
+    "squareCount": 12,
+    "spacingMode": "uniform",
+    "outerGap": 24,
+    "shrinkage": 0,
+    "rotation": 45,
+    "alternating": true,
+    "notchesPerSide": 0,
+    "notchWidth": 8,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["squares", "diamond", "45-degree"]
+}

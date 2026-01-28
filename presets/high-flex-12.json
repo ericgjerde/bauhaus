@@ -1,0 +1,19 @@
+{
+  "name": "High Flexibility 12-Cut",
+  "description": "12 cuts with high shrinkage for maximum expansion when stretched",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 24,
+    "ringCount": 15,
+    "spacingMode": "shrinkage",
+    "outerGap": 20,
+    "shrinkage": 0.15,
+    "cutCount": 12,
+    "gridDivisions": 24,
+    "staggerOffset": 1,
+    "cutWidth": 6,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["flexible", "expandable", "12-cut"]
+}

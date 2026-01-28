@@ -1,0 +1,19 @@
+{
+  "name": "30-Ring Dense",
+  "description": "Maximum ring count with tight spacing for intricate detail",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 18,
+    "ringCount": 30,
+    "spacingMode": "shrinkage",
+    "outerGap": 14,
+    "shrinkage": 0.08,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 5,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["dense", "30-ring", "intricate"]
+}

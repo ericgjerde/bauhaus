@@ -1,0 +1,19 @@
+{
+  "name": "20-rings-16",
+  "description": "20 rings, 16 cuts, 32grid. ",
+  "config": {
+    "outerRadius": 720,
+    "innerRadius": 36,
+    "ringCount": 20,
+    "spacingMode": "shrinkage",
+    "outerGap": 50.4,
+    "shrinkage": 0.05,
+    "cutCount": 16,
+    "gridDivisions": 32,
+    "staggerOffset": 1,
+    "cutWidth": 18,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T05:11:06.457Z",
+  "tags": []
+}

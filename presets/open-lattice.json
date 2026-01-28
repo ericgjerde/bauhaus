@@ -1,0 +1,19 @@
+{
+  "name": "Open Lattice",
+  "description": "Wide spacing between rings creates open, airy lattice pattern",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 72,
+    "ringCount": 6,
+    "spacingMode": "shrinkage",
+    "outerGap": 40,
+    "shrinkage": 0.02,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 12,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["open", "lattice", "airy"]
+}

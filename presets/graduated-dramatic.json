@@ -1,0 +1,19 @@
+{
+  "name": "Graduated Dramatic",
+  "description": "Strong graduated spacing - wide outer rings compress dramatically toward center",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 18,
+    "ringCount": 14,
+    "spacingMode": "shrinkage",
+    "outerGap": 36,
+    "shrinkage": 0.18,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 8,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["graduated", "dramatic", "compression"]
+}

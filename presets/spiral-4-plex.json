@@ -1,0 +1,18 @@
+{
+  "name": "4-Arm Spiral",
+  "description": "Four interleaving logarithmic spiral arms",
+  "patternType": "spirals",
+  "config": {
+    "armCount": 4,
+    "outerRadius": 360,
+    "innerRadius": 10,
+    "turns": 3,
+    "spiralType": "logarithmic",
+    "growthFactor": 0.2,
+    "rotation": 0,
+    "strokeWidth": 1,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["spiral", "4-plex", "logarithmic"]
+}

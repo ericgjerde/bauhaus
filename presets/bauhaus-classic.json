@@ -1,0 +1,19 @@
+{
+  "name": "Bauhaus Classic",
+  "description": "Classic Bauhaus school proportions - balanced geometry with subtle shrinkage",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "ringCount": 10,
+    "spacingMode": "shrinkage",
+    "outerGap": 24,
+    "shrinkage": 0.04,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 8,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["bauhaus", "classic", "balanced"]
+}

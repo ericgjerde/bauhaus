@@ -1,0 +1,19 @@
+{
+  "name": "Golden Ratio",
+  "description": "Ring spacing follows golden ratio (phi = 1.618) for naturally pleasing proportions",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 20,
+    "ringCount": 10,
+    "spacingMode": "goldenRatio",
+    "outerGap": 30,
+    "shrinkage": 0.382,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 8,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["golden-ratio", "classical", "fibonacci"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "16-Cut Fine Mesh",
+  "description": "Finer mesh pattern with 16 cuts, creates more flexible expansion",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "ringCount": 15,
+    "spacingMode": "shrinkage",
+    "outerGap": 14,
+    "shrinkage": 0.03,
+    "cutCount": 16,
+    "gridDivisions": 32,
+    "staggerOffset": 1,
+    "cutWidth": 6,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["mesh", "fine", "16-cut"]
+}

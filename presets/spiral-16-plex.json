@@ -1,0 +1,18 @@
+{
+  "name": "16-Arm Spiral",
+  "description": "Sixteen interleaving spiral arms creating intricate web",
+  "patternType": "spirals",
+  "config": {
+    "armCount": 16,
+    "outerRadius": 360,
+    "innerRadius": 8,
+    "turns": 2,
+    "spiralType": "logarithmic",
+    "growthFactor": 0.15,
+    "rotation": 0,
+    "strokeWidth": 1,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["spiral", "16-plex", "intricate"]
+}

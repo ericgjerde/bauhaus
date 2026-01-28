@@ -1,0 +1,19 @@
+{
+  "name": "Albers Uniform",
+  "description": "Equal spacing between all rings - pure mathematical precision inspired by Josef Albers",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "ringCount": 12,
+    "spacingMode": "uniform",
+    "outerGap": 27,
+    "shrinkage": 0,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 6,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["albers", "uniform", "mathematical"]
+}

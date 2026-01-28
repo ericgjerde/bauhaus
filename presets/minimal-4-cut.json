@@ -1,0 +1,19 @@
+{
+  "name": "Minimal 4-Cut",
+  "description": "Clean minimalist pattern with only 4 cuts per ring - elegant simplicity",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "ringCount": 8,
+    "spacingMode": "shrinkage",
+    "outerGap": 30,
+    "shrinkage": 0.03,
+    "cutCount": 4,
+    "gridDivisions": 8,
+    "staggerOffset": 1,
+    "cutWidth": 10,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["minimal", "4-cut", "clean"]
+}

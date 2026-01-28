@@ -1,0 +1,20 @@
+{
+  "name": "Dodecagon Rings",
+  "description": "Concentric 12-sided polygons approaching circular form",
+  "patternType": "polygons",
+  "config": {
+    "sides": 12,
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "polygonCount": 14,
+    "spacingMode": "shrinkage",
+    "outerGap": 22,
+    "shrinkage": 0.04,
+    "rotation": 0,
+    "bridgeCount": 0,
+    "bridgeWidth": 8,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["dodecagon", "polygon", "12-sided"]
+}

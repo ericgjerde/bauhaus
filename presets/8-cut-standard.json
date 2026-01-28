@@ -1,0 +1,19 @@
+{
+  "name": "8-Cut Standard Mesh",
+  "description": "Basic expandable mesh pattern with 8 cuts per ring, good starting point",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "ringCount": 10,
+    "spacingMode": "shrinkage",
+    "outerGap": 18,
+    "shrinkage": 0.05,
+    "cutCount": 8,
+    "gridDivisions": 16,
+    "staggerOffset": 1,
+    "cutWidth": 8,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["mesh", "standard", "8-cut"]
+}

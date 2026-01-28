@@ -1,0 +1,20 @@
+{
+  "name": "Hexagon Rings",
+  "description": "Concentric hexagons creating honeycomb-style nested pattern",
+  "patternType": "polygons",
+  "config": {
+    "sides": 6,
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "polygonCount": 12,
+    "spacingMode": "shrinkage",
+    "outerGap": 24,
+    "shrinkage": 0.05,
+    "rotation": 0,
+    "bridgeCount": 0,
+    "bridgeWidth": 8,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["hexagon", "polygon", "honeycomb"]
+}

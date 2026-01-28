@@ -1,0 +1,19 @@
+{
+  "name": "Tight Weave",
+  "description": "Close ring spacing creates tight woven texture",
+  "config": {
+    "outerRadius": 360,
+    "innerRadius": 20,
+    "ringCount": 25,
+    "spacingMode": "shrinkage",
+    "outerGap": 12,
+    "shrinkage": 0.06,
+    "cutCount": 16,
+    "gridDivisions": 32,
+    "staggerOffset": 1,
+    "cutWidth": 4,
+    "showOuterBoundary": false
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["tight", "weave", "textile"]
+}

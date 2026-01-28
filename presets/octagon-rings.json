@@ -1,0 +1,20 @@
+{
+  "name": "Octagon Rings",
+  "description": "Concentric octagons with 8-fold symmetry",
+  "patternType": "polygons",
+  "config": {
+    "sides": 8,
+    "outerRadius": 360,
+    "innerRadius": 36,
+    "polygonCount": 12,
+    "spacingMode": "shrinkage",
+    "outerGap": 24,
+    "shrinkage": 0.05,
+    "rotation": 22.5,
+    "bridgeCount": 0,
+    "bridgeWidth": 8,
+    "showOuterBoundary": true
+  },
+  "createdAt": "2026-01-27T00:00:00.000Z",
+  "tags": ["octagon", "polygon", "8-sided"]
+}
